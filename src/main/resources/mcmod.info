@@ -1,0 +1,18 @@
+[
+{
+"modid": "MyFirstMod",
+"name": "My First Mod",
+"description": "This is a tryout for creating a new mod.",
+"version": "0.1",
+"credits": "SkiesAreRed",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "http://marnumix.com",
+"updateUrl": "",
+"authorList": [ "SkiesAreRed" ],
+"screenshots": [],
+"dependencies": [
+
+ ]
+}
+]
